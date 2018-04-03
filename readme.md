@@ -2,12 +2,10 @@
     <li>
         <h2>Create style.css</h2>
         <p>
-            {% highlight css %}
-                .main{
-                color: #fabcbc;
-                margin: 0px;
-            }
-            {% endhighlight %}
+            <pre style='color:#000000;background:#ffffff;'><span style='color:#808030; '>.</span>main<span style='color:#800080; '>{</span>
+                <span style='color:#bb7977; font-weight:bold; '>color</span><span style='color:#808030; '>:</span> <span style='color:#008c00; '>#</span><span style='color:#008000; '>fff</span><span style='color:#800080; '>;</span>
+            <span style='color:#800080; '>}</span>
+            </pre>
         </p>
     </li>
     <li>
