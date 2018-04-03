@@ -1,7 +1,14 @@
 <ol>
     <li>
         <h2>Create style.css</h2>
-        <p></p>
+        <p>
+            {% highlight css %}
+                .main{
+                color: #fabcbc;
+                margin: 0px;
+            }
+            {% endhighlight %}
+        </p>
     </li>
     <li>
         <h2>Create function.php</h2>
