@@ -3,13 +3,10 @@
         <h2>Create style.css</h2>
         <p>
         </p>
-'''css
-.main{
-    color: white;
-    margin: 0;
-    paddeing: 0;
-}
-'''
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
     </li>
     <li>
         <h2>Create function.php</h2>
