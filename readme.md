@@ -1,5 +1,6 @@
 
-##Create style.css
+## Create style.css
+
 ```css
 .main{
     color: white;
@@ -7,8 +8,8 @@
     paddeing: 0;
 }
 ```
-##Create function.php
+## Create function.php
 
-##>Create screenshop
+## Create screenshop
 
-##Create index.php
+## Create index.php
